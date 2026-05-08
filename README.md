@@ -1,18 +1,47 @@
+# AceCJM
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acecjm_) 
+> Software developer • C · C# · Python · JavaScript
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AceCJM&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AceCJM&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AceCJM&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Hello — I build small tools, desktop utilities and web projects. I like learning new languages, exploring systems-level code in C, and shipping practical apps.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AceCJM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Currently
+- Working on **SgithiDownloader** and improving cross-platform tooling and small utilities.
+
+## ⭐ Featured Repositories
+- [SgithiDownloader](https://github.com/AceCJM/SgithiDownloader) — lightweight downloader and scripting utilities.
+- [EfCore-SQLiteDemo](https://github.com/AceCJM/EfCore-SQLiteDemo) — example using EF Core with SQLite.
+- [plain-text-editor-in-c](https://github.com/AceCJM/plain-text-editor-in-c) — learning project: a text editor in C.
+- [MediaBrowser](https://github.com/AceCJM/MediaBrowser) — simple media utilities and scripts.
+
+See all repositories: https://github.com/AceCJM?tab=repositories
+
+---
+
+## 🛠 What I work with
+
+#### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### Frameworks & Tools
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## ✨ Articles & Notes
+- (Coming soon) Short notes and technical writeups.
+
+---
+
+## 📊 GitHub
+![AceCJM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceCJM&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AceCJM&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect
+- Instagram: [acecjm_](https://instagram.com/acecjm_)
+- Profile: https://github.com/AceCJM
+
+---
